@@ -5,7 +5,7 @@
 [![Fast.ai](https://img.shields.io/badge/Fast.ai-Transfer%20Learning-FFD43B.svg)](https://www.fast.ai/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-FF4B4B.svg)](https://streamlit.io/)
 
-**Live Web Application:** [Launch The AI Curator]([INSERT YOUR STREAMLIT LINK HERE])
+**Live Web Application:** [Launch The AI Curator](https://french-art-curator.streamlit.app/)
 
 ## 📌 Project Overview
 The AI Curator is an end-to-end computer vision web application trained to differentiate between the highly similar brushstrokes of four French Masters: **Claude Monet, Pierre-Auguste Renoir, Edgar Degas, and Paul Cézanne.** Unlike standard tutorial projects that use pre-packaged Kaggle datasets, this project demonstrates a complete, real-world Machine Learning Engineering lifecycle: from automated web scraping and data sanitation to transfer learning and cloud deployment.
