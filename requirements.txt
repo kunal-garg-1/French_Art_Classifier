@@ -1,6 +1,6 @@
 streamlit
-fastai==2.7.14
-fastcore==1.5.29
-torch==2.2.1
-torchvision==0.17.1
+fastai
+fasttransform
+torch
+torchvision
 Pillow
